@@ -1,6 +1,6 @@
 ## Hi there, I am Divyansh Raj 👋
 
-I am pursuing high school diploma at [Sant Longowal Institute of Engineering and Technlogy](http://sliet.ac.in/). Currenlty I am learning Javascript and React and Practcing Data Structures and Algorithms daily.
+I am pursuing high school diploma at [Sant Longowal Institute of Engineering and Technlogy](http://sliet.ac.in/). Currenlty I am learning Javascript and React and Practicing Data Structures and Algorithms daily.
 
 ![Divyansh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=divyanshraj0408&theme=xcode)
 
