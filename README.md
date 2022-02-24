@@ -10,7 +10,7 @@ I am pursuing high school diploma at [Sant Longowal Institute of Engineering and
 
 ## 💻 Technologies
 
-### Language :
+### Languages & Markups :
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
