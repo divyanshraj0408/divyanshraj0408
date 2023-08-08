@@ -1,16 +1,14 @@
 ## Hi there, I am [Divyansh](https://divyanshraj.onrender.com/) 👋
 
-I am pursuing high school diploma at [Sant Longowal Institute of Engineering and Technlogy](http://sliet.ac.in/). 
-- 🔭 I’m currently working on [100DaysOfCode](https://github.com/divyanshraj0408/100daysofcode).
-- 🌱 I’m currently learning React.
+I am in my sophomore year of bachelor of technology. 
+- 🔭 I’m currently working on [ClassConnect](https://github.com/divyanshraj0408/ClassConnect).
+- 🌱 I’m currently learning about Nodejs & Mongodb.
 - 💬 Ask me about web development and Data Structures and Algorithms.
 - 📫 How to reach me: [Twitter](https://twitter.com/divyanshraj04).
 
-![Divyansh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=divyanshraj0408&theme=xcode)
-
 ## 💻 Technologies
 
-### Languages & Markups :
+### Languages :
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -18,6 +16,9 @@ I am pursuing high school diploma at [Sant Longowal Institute of Engineering and
 ### FrameWorks & Libraries : 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-nodejs-E34A86?style=flat-square&logo=npm)
+### Databases :
+![Mongodb](https://img.shields.io/badge/-mongodb-E34A86?style=flat-square&logo=mongodb)
 
 ## 📈 Stats
 <p align="center">
