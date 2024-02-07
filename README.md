@@ -16,10 +16,12 @@ I am in my sophomore year of bachelor of technology.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ### FrameWorks & Libraries : 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-tailwind-E34A86?style=flat-square&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-nodejs-E34A86?style=flat-square&logo=npm)
 ### Databases :
 ![Mongodb](https://img.shields.io/badge/-mongodb-E34A86?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-postgreSQL-E34A86?style=flat-square&logo=postgresql)
 
 ## 📈 Stats
 <p align="center">
