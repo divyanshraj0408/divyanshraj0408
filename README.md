@@ -23,12 +23,12 @@ I am in my sophomore year of bachelor of technology.
 ![Mongodb](https://img.shields.io/badge/-mongodb-E34A86?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-postgreSQL-E34A86?style=flat-square&logo=postgresql)
 
-## 📈 Stats
+<!--## 📈 Stats
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divyanshraj0408&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshraj0408&theme=tokyonight" />
-</p>
+</p>-->
 <!--
 **divyanshraj0408/divyanshraj0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
