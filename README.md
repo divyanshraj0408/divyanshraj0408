@@ -1,8 +1,8 @@
 ## Hi there, I am [Divyansh](https://divyanshraj.onrender.com/) 👋
 
 I am in my sophomore year of bachelor of technology. 
-- 🔭 I’m currently working on [ClassConnect](https://github.com/divyanshraj0408/ClassConnect).
-- 🌱 I’m currently learning about Nodejs & Mongodb.
+- 🔭 I’m currently working on [MeetMates](https://www.meetmates.space/).
+- 🌱 I’m currently learning about WebRTC & Low Level Programming.
 - 💬 Ask me about web development and Data Structures and Algorithms.
 - 📫 How to reach me: [Twitter](https://twitter.com/divyanshraj04).
 
