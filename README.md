@@ -1,11 +1,11 @@
-## Hi there, I am [Divyansh](https://divyanshraj.onrender.com/) 👋
+## YO, I am [Divyansh](https://divyanshraj.onrender.com/) 👋
 
 I am in my final year of bachelor of technology. 
 - 🔭 I’m currently working on [MeetMates](https://www.meetmates.space/).
 - 🌱 I’m currently learning about WebRTC & Low Level Programming.
 - 💬 Ask me about web development and Data Structures and Algorithms.
 - 📫 How to reach me: [Twitter](https://twitter.com/divyanshraj04).
-
+<!--
 ## 💻 Technologies
 
 ### Languages :
@@ -22,7 +22,7 @@ I am in my final year of bachelor of technology.
 ### Databases :
 ![Mongodb](https://img.shields.io/badge/-mongodb-E34A86?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-postgreSQL-E34A86?style=flat-square&logo=postgresql)
-
+-->
 <!--## 📈 Stats
 <p align="center">
 	
