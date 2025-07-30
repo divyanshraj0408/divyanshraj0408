@@ -1,6 +1,6 @@
 ## Hi there, I am [Divyansh](https://divyanshraj.onrender.com/) 👋
 
-I am in my sophomore year of bachelor of technology. 
+I am in my final year of bachelor of technology. 
 - 🔭 I’m currently working on [MeetMates](https://www.meetmates.space/).
 - 🌱 I’m currently learning about WebRTC & Low Level Programming.
 - 💬 Ask me about web development and Data Structures and Algorithms.
