@@ -1,4 +1,4 @@
-## YO, I am [Divyansh](https://divyanshraj.onrender.com/) 👋
+## Hey, I am [Divyansh](https://divyanshraj.onrender.com/) 👋
 
 I am in my final year of bachelor of technology. 
 - 🔭 I’m currently working on [MeetMates](https://www.meetmates.space/).
